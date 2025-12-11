@@ -1,7 +1,7 @@
 <?php
 
 // url нашего хука
-$url = 'https://arlift.net/rest/1700/9eun56t52qdbtb9s/';
+$url = 'адрес хука';
 
 $taskID = $_REQUEST['data']['FIELDS_AFTER']['ID'] ?? null;
 
@@ -60,4 +60,5 @@ if($task_info_group_id == (int)$groupId && $task_info_stage_id == (int)$stageId)
 
 echo "<pre>";
 print_r($taskInfo);
+
 echo "</pre>";
