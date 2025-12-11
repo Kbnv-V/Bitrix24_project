@@ -1,7 +1,7 @@
 <?php
 
 // url нашего хука
-$url = 'https://arlift.net/rest/1700/9eun56t52qdbtb9s/';
+$url = 'адрес хука';
 
 $item_id = $_REQUEST['data']['FIELDS']['ID'] ?? null;
 $entity_id = $_REQUEST['data']['FIELDS']['ENTITY_TYPE_ID'] ?? null;
@@ -39,4 +39,5 @@ if($entity_id == $hard_entity_id){
     $add_item = request('bizproc.workflow.start', $url, ['TEMPLATE_ID' => $bizpoc_id, 'DOCUMENT_ID' => ['crm', 'Bitrix\\Crm\\Integration\\BizProc\\Document\\Dynamic', 'DYNAMIC_' . $hard_entity_id . '_' . $item_id]]);
 
 }
+
 
