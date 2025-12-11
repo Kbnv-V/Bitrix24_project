@@ -18,7 +18,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             'bizproc.activity.add',
             [
                 'CODE' => 'get_element_list_id',
-                'HANDLER' => 'https://saltsite.saltpro.ru/rest_apps/edu/kbnv/get_element_list_id/get_element.php', 
+                'HANDLER' => 'адрес сервака, где лежит файл', 
                 'AUTH_USER_ID' => 1,
                 'USE_SUBSCRIPTION' => '',
                 'NAME' => ['ru' => 'Поиск элемента списка'],
@@ -126,4 +126,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </table>
 
 </body>
+
 </html>
