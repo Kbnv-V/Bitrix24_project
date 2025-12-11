@@ -12,7 +12,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     'event.bind',
     [
         'event' => 'ONCRMDYNAMICITEMADD',
-        'handler' => 'https://arlift.net/local/local_app_survey/item_add.php', 
+        'handler' => 'адрес до исполняемого файла', 
     ]
     );
     
@@ -27,7 +27,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     'event.unbind',
     [
         'event' => 'ONCRMDYNAMICITEMADD',
-        'handler' => 'https://arlift.net/local/local_app_survey/item_add.php'
+        'handler' => 'адрес до исполняемого файла'
     ]
     );
     
@@ -42,7 +42,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     'event.bind',
     [
         'event' => 'ONTASKUPDATE',
-        'handler' => 'https://arlift.net/local/local_app_survey/task_update.php', 
+        'handler' => 'адрес до исполняемого файла', 
     ]
     );
     
@@ -57,7 +57,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     'event.unbind',
     [
         'event' => 'ONTASKUPDATE',
-        'handler' => 'https://arlift.net/local/local_app_survey/task_update.php'
+        'handler' => 'адрес до исполняемого файла'
     ]
     );
     
@@ -134,4 +134,5 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
 </table>
 
 </body>
+
 </html>
