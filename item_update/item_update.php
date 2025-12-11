@@ -1,7 +1,7 @@
 <?php
 
 // url нашего хука
-$url = 'https://portal-test.utsrus.com/rest/1/ush3m82ne5ekj3ev/';
+$url = 'адрес хука';
 $product_id = $_REQUEST['properties']['product_id'] ?? null;
 $token = $_REQUEST['event_token'] ?? '';   // очень важно
 $entity_id = 1050; //идентификатор смарта
@@ -63,4 +63,5 @@ print_r('product_category_id: ' . $product_category_id);
 echo "<pre>";
 print_r($item_element_info);
 echo "</pre>";
+
 */
