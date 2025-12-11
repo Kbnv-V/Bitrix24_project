@@ -1,0 +1,5 @@
+Array
+(
+    [error] => error_php_lib_curl
+    [error_information] => need install curl lib
+)
