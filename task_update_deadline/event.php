@@ -12,7 +12,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     'event.bind',
     [
         'event' => 'onTaskAdd',
-        'handler' => 'https://saltsite.saltpro.ru/rest_apps/edu/kbnv/task_update_deadline_ETS/taskupdate.php', 
+        'handler' => 'адрес до исполняемого файла', 
     ]
     );
     
@@ -84,4 +84,5 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
 </table>
 
 </body>
+
 </html>
