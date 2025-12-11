@@ -1,7 +1,7 @@
 <?php
 
 // url нашего хука
-$url = 'https://portal-test.utsrus.com/rest/1/ush3m82ne5ekj3ev/';
+$url = 'адрес хука';
 
 $documentId = $_REQUEST['properties']['document_ID'] ?? null;
 $listId = $_REQUEST['properties']['list_ID'] ?? null;
@@ -48,3 +48,4 @@ file_put_contents(__DIR__ . '/debug.log', $logText, FILE_APPEND);
 echo "<pre>";
 print_r($bizInfo);
 echo "</pre>";
+
