@@ -1,7 +1,7 @@
 <?php
 
 // url нашего хука
-$url = 'https://test2.arlift.net/rest/1700/cbg46ss890p9xfbq/';
+$url = 'адрес хука';
 
 $document_name = $_REQUEST['properties']['document_name'] ?? null;
 $listId = $_REQUEST['properties']['list_ID'] ?? null;
@@ -62,4 +62,5 @@ exit;
 echo "<pre>";
 print_r($arr_id);
 echo "</pre>";
+
 */
