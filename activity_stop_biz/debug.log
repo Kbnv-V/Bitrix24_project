@@ -1,0 +1,821 @@
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 68b59c2f40d8b3.48330589
+                    [MODIFIED] => 2025-09-01T16:14:23+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 35
+                    [STARTED] => 2025-09-01T16:14:23+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 13
+                )
+
+            [1] => Array
+                (
+                    [ID] => 6874b7ff225e88.62931724
+                    [MODIFIED] => 2025-07-16T00:01:25+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 3
+                    [STARTED] => 2025-07-14T10:55:43+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 13
+                )
+
+        )
+
+    [total] => 2
+    [time] => Array
+        (
+            [start] => 1756738402.4264
+            [finish] => 1756738402.4603
+            [duration] => 0.033905029296875
+            [processing] => 0.0042400360107422
+            [date_start] => 2025-09-01T17:53:22+03:00
+            [date_finish] => 2025-09-01T17:53:22+03:00
+            [operating_reset_at] => 1756739002
+            [operating] => 0
+        )
+
+)
+list_ID: 
+document_ID: 
+=== 2025-09-02 13:31:50 ===
+Result: Array
+(
+    [result] => Array
+        (
+        )
+
+    [total] => 0
+    [time] => Array
+        (
+            [start] => 1756812710.0464
+            [finish] => 1756812710.0927
+            [duration] => 0.046295166015625
+            [processing] => 0.0010278224945068
+            [date_start] => 2025-09-02T14:31:50+03:00
+            [date_finish] => 2025-09-02T14:31:50+03:00
+        )
+
+)
+
+
+list_ID: 
+document_ID: 
+=== 2025-09-02 13:32:15 ===
+Result: Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 68b6d5020dcbc1.98958314
+                    [MODIFIED] => 2025-09-02T14:29:06+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10965
+                    [STARTED] => 2025-09-02T14:29:06+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 232
+                )
+
+            [1] => Array
+                (
+                    [ID] => 68b6d4fc5e0419.33348682
+                    [MODIFIED] => 2025-09-02T14:29:00+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10965
+                    [STARTED] => 2025-09-02T14:29:00+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 5
+                )
+
+            [2] => Array
+                (
+                    [ID] => 68b069ae36bd11.90887023
+                    [MODIFIED] => 2025-08-28T17:37:34+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 55
+                    [STARTED] => 2025-08-28T17:37:34+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 2
+                )
+
+            [3] => Array
+                (
+                    [ID] => 68b0699d0c79f4.79123698
+                    [MODIFIED] => 2025-08-28T17:37:17+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10964
+                    [STARTED] => 2025-08-28T17:37:17+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 2
+                )
+
+            [4] => Array
+                (
+                    [ID] => 68a317a81c5fa9.19145403
+                    [MODIFIED] => 2025-08-18T15:08:08+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => Bitrix\Crm\Integration\BizProc\Document\Dynamic
+                    [DOCUMENT_ID] => DYNAMIC_1046_34
+                    [STARTED] => 2025-08-18T15:08:08+03:00
+                    [STARTED_BY] => 26
+                    [TEMPLATE_ID] => 194
+                )
+
+            [5] => Array
+                (
+                    [ID] => 67dc1101cd5af6.31994400
+                    [MODIFIED] => 2025-07-24T16:50:14+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 106
+                    [STARTED] => 2025-03-20T15:58:42+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 3
+                )
+
+            [6] => Array
+                (
+                    [ID] => 67dd3531614344.04499391
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 107
+                    [STARTED] => 2025-03-21T12:45:21+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 2
+                )
+
+            [7] => Array
+                (
+                    [ID] => 680a40a53b3616.68542874
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 120
+                    [STARTED] => 2025-04-24T16:46:13+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 2
+                )
+
+            [8] => Array
+                (
+                    [ID] => 67dd3621a41611.09119413
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 108
+                    [STARTED] => 2025-03-21T12:49:21+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 2
+                )
+
+            [9] => Array
+                (
+                    [ID] => 688237f2a795b7.77845107
+                    [MODIFIED] => 2025-07-24T16:41:07+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => Bitrix\Crm\Integration\BizProc\Document\Dynamic
+                    [DOCUMENT_ID] => DYNAMIC_1046_29
+                    [STARTED] => 2025-07-24T16:41:07+03:00
+                    [STARTED_BY] => 0
+                    [TEMPLATE_ID] => 158
+                )
+
+            [10] => Array
+                (
+                    [ID] => 688235928b1426.58073975
+                    [MODIFIED] => 2025-07-24T16:30:58+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => Bitrix\Crm\Integration\BizProc\Document\Dynamic
+                    [DOCUMENT_ID] => DYNAMIC_1046_31
+                    [STARTED] => 2025-07-24T16:30:58+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 194
+                )
+
+            [11] => Array
+                (
+                    [ID] => 688233262d18e6.95220453
+                    [MODIFIED] => 2025-07-24T16:20:38+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => Bitrix\Crm\Integration\BizProc\Document\Dynamic
+                    [DOCUMENT_ID] => DYNAMIC_1046_30
+                    [STARTED] => 2025-07-24T16:20:38+03:00
+                    [STARTED_BY] => 54
+                    [TEMPLATE_ID] => 194
+                )
+
+            [12] => Array
+                (
+                    [ID] => 68822ccfb357f3.85254965
+                    [MODIFIED] => 2025-07-24T15:53:35+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => Bitrix\Crm\Integration\BizProc\Document\Dynamic
+                    [DOCUMENT_ID] => DYNAMIC_1046_29
+                    [STARTED] => 2025-07-24T15:53:35+03:00
+                    [STARTED_BY] => 54
+                    [TEMPLATE_ID] => 194
+                )
+
+            [13] => Array
+                (
+                    [ID] => 68822bf11d0b96.73603226
+                    [MODIFIED] => 2025-07-24T15:49:53+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => Bitrix\Crm\Integration\BizProc\Document\Dynamic
+                    [DOCUMENT_ID] => DYNAMIC_1046_27
+                    [STARTED] => 2025-07-24T15:49:53+03:00
+                    [STARTED_BY] => 54
+                    [TEMPLATE_ID] => 194
+                )
+
+            [14] => Array
+                (
+                    [ID] => 68790f19ba9a39.68115941
+                    [MODIFIED] => 2025-07-17T17:56:25+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => Bitrix\Crm\Integration\BizProc\Document\Dynamic
+                    [DOCUMENT_ID] => DYNAMIC_1046_25
+                    [STARTED] => 2025-07-17T17:56:25+03:00
+                    [STARTED_BY] => 53
+                    [TEMPLATE_ID] => 194
+                )
+
+            [15] => Array
+                (
+                    [ID] => 68790e24cde287.02411653
+                    [MODIFIED] => 2025-07-17T17:52:20+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => Bitrix\Crm\Integration\BizProc\Document\Dynamic
+                    [DOCUMENT_ID] => DYNAMIC_1046_24
+                    [STARTED] => 2025-07-17T17:52:20+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 194
+                )
+
+            [16] => Array
+                (
+                    [ID] => 687902fb1b0738.30309948
+                    [MODIFIED] => 2025-07-17T17:04:43+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => Bitrix\Crm\Integration\BizProc\Document\Dynamic
+                    [DOCUMENT_ID] => DYNAMIC_1046_23
+                    [STARTED] => 2025-07-17T17:04:43+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 194
+                )
+
+            [17] => Array
+                (
+                    [ID] => 68418d84164d46.58459528
+                    [MODIFIED] => 2025-06-05T15:47:03+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => CCrmDocumentLead
+                    [DOCUMENT_ID] => LEAD_28
+                    [STARTED] => 2025-06-05T15:28:52+03:00
+                    [STARTED_BY] => 0
+                    [TEMPLATE_ID] => 83
+                )
+
+            [18] => Array
+                (
+                    [ID] => 684191826ce275.12100367
+                    [MODIFIED] => 2025-06-05T15:45:54+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => CCrmDocumentLead
+                    [DOCUMENT_ID] => LEAD_30
+                    [STARTED] => 2025-06-05T15:45:54+03:00
+                    [STARTED_BY] => 0
+                    [TEMPLATE_ID] => 83
+                )
+
+            [19] => Array
+                (
+                    [ID] => 68418fbac2a079.21050563
+                    [MODIFIED] => 2025-06-05T15:38:19+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => crm
+                    [ENTITY] => CCrmDocumentLead
+                    [DOCUMENT_ID] => LEAD_29
+                    [STARTED] => 2025-06-05T15:38:19+03:00
+                    [STARTED_BY] => 0
+                    [TEMPLATE_ID] => 83
+                )
+
+        )
+
+    [total] => 20
+    [time] => Array
+        (
+            [start] => 1756812734.9797
+            [finish] => 1756812735.0291
+            [duration] => 0.04942512512207
+            [processing] => 0.0026230812072754
+            [date_start] => 2025-09-02T14:32:14+03:00
+            [date_finish] => 2025-09-02T14:32:15+03:00
+        )
+
+)
+
+
+list_ID: 
+document_ID: 
+=== 2025-09-02 13:32:58 ===
+Result: Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 68b6d5020dcbc1.98958314
+                    [MODIFIED] => 2025-09-02T14:29:06+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10965
+                    [STARTED] => 2025-09-02T14:29:06+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 232
+                )
+
+            [1] => Array
+                (
+                    [ID] => 68b6d4fc5e0419.33348682
+                    [MODIFIED] => 2025-09-02T14:29:00+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10965
+                    [STARTED] => 2025-09-02T14:29:00+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 5
+                )
+
+            [2] => Array
+                (
+                    [ID] => 68b069ae36bd11.90887023
+                    [MODIFIED] => 2025-08-28T17:37:34+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 55
+                    [STARTED] => 2025-08-28T17:37:34+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 2
+                )
+
+            [3] => Array
+                (
+                    [ID] => 68b0699d0c79f4.79123698
+                    [MODIFIED] => 2025-08-28T17:37:17+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10964
+                    [STARTED] => 2025-08-28T17:37:17+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 2
+                )
+
+            [4] => Array
+                (
+                    [ID] => 67dc1101cd5af6.31994400
+                    [MODIFIED] => 2025-07-24T16:50:14+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 106
+                    [STARTED] => 2025-03-20T15:58:42+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 3
+                )
+
+            [5] => Array
+                (
+                    [ID] => 67dd3531614344.04499391
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 107
+                    [STARTED] => 2025-03-21T12:45:21+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 2
+                )
+
+            [6] => Array
+                (
+                    [ID] => 67dd3621a41611.09119413
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 108
+                    [STARTED] => 2025-03-21T12:49:21+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 2
+                )
+
+            [7] => Array
+                (
+                    [ID] => 680a40a53b3616.68542874
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 120
+                    [STARTED] => 2025-04-24T16:46:13+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 2
+                )
+
+        )
+
+    [total] => 8
+    [time] => Array
+        (
+            [start] => 1756812778.4936
+            [finish] => 1756812778.5423
+            [duration] => 0.048705101013184
+            [processing] => 0.0019409656524658
+            [date_start] => 2025-09-02T14:32:58+03:00
+            [date_finish] => 2025-09-02T14:32:58+03:00
+        )
+
+)
+
+
+list_ID: 
+document_ID: 
+=== 2025-09-02 13:35:09 ===
+Result: Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 68b069ae36bd11.90887023
+                    [MODIFIED] => 2025-08-28T17:37:34+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 55
+                    [STARTED] => 2025-08-28T17:37:34+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 2
+                )
+
+            [1] => Array
+                (
+                    [ID] => 68b0699d0c79f4.79123698
+                    [MODIFIED] => 2025-08-28T17:37:17+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10964
+                    [STARTED] => 2025-08-28T17:37:17+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 2
+                )
+
+            [2] => Array
+                (
+                    [ID] => 67dc1101cd5af6.31994400
+                    [MODIFIED] => 2025-07-24T16:50:14+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 106
+                    [STARTED] => 2025-03-20T15:58:42+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 3
+                )
+
+            [3] => Array
+                (
+                    [ID] => 67dd3531614344.04499391
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 107
+                    [STARTED] => 2025-03-21T12:45:21+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 2
+                )
+
+            [4] => Array
+                (
+                    [ID] => 67dd3621a41611.09119413
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 108
+                    [STARTED] => 2025-03-21T12:49:21+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 2
+                )
+
+            [5] => Array
+                (
+                    [ID] => 680a40a53b3616.68542874
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 120
+                    [STARTED] => 2025-04-24T16:46:13+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 2
+                )
+
+        )
+
+    [total] => 6
+    [time] => Array
+        (
+            [start] => 1756812909.1907
+            [finish] => 1756812909.2388
+            [duration] => 0.048101186752319
+            [processing] => 0.0017080307006836
+            [date_start] => 2025-09-02T14:35:09+03:00
+            [date_finish] => 2025-09-02T14:35:09+03:00
+        )
+
+)
+
+
+list_ID: 
+document_ID: 
+=== 2025-09-02 13:35:29 ===
+Result: Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 68b6d67d23cec8.53837226
+                    [MODIFIED] => 2025-09-02T14:35:25+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10965
+                    [STARTED] => 2025-09-02T14:35:25+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 5
+                )
+
+            [1] => Array
+                (
+                    [ID] => 68b069ae36bd11.90887023
+                    [MODIFIED] => 2025-08-28T17:37:34+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 55
+                    [STARTED] => 2025-08-28T17:37:34+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 2
+                )
+
+            [2] => Array
+                (
+                    [ID] => 68b0699d0c79f4.79123698
+                    [MODIFIED] => 2025-08-28T17:37:17+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10964
+                    [STARTED] => 2025-08-28T17:37:17+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 2
+                )
+
+            [3] => Array
+                (
+                    [ID] => 67dc1101cd5af6.31994400
+                    [MODIFIED] => 2025-07-24T16:50:14+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 106
+                    [STARTED] => 2025-03-20T15:58:42+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 3
+                )
+
+            [4] => Array
+                (
+                    [ID] => 67dd3531614344.04499391
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 107
+                    [STARTED] => 2025-03-21T12:45:21+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 2
+                )
+
+            [5] => Array
+                (
+                    [ID] => 67dd3621a41611.09119413
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 108
+                    [STARTED] => 2025-03-21T12:49:21+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 2
+                )
+
+            [6] => Array
+                (
+                    [ID] => 680a40a53b3616.68542874
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 120
+                    [STARTED] => 2025-04-24T16:46:13+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 2
+                )
+
+        )
+
+    [total] => 7
+    [time] => Array
+        (
+            [start] => 1756812929.4103
+            [finish] => 1756812929.4485
+            [duration] => 0.038189888000488
+            [processing] => 0.0019958019256592
+            [date_start] => 2025-09-02T14:35:29+03:00
+            [date_finish] => 2025-09-02T14:35:29+03:00
+        )
+
+)
+
+
+list_ID: 
+document_ID: 
+=== 2025-09-02 13:35:45 ===
+Result: Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 68b6d68d2849f1.67883928
+                    [MODIFIED] => 2025-09-02T14:35:41+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10965
+                    [STARTED] => 2025-09-02T14:35:41+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 5
+                )
+
+            [1] => Array
+                (
+                    [ID] => 68b6d67d23cec8.53837226
+                    [MODIFIED] => 2025-09-02T14:35:25+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10965
+                    [STARTED] => 2025-09-02T14:35:25+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 5
+                )
+
+            [2] => Array
+                (
+                    [ID] => 68b069ae36bd11.90887023
+                    [MODIFIED] => 2025-08-28T17:37:34+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 55
+                    [STARTED] => 2025-08-28T17:37:34+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 2
+                )
+
+            [3] => Array
+                (
+                    [ID] => 68b0699d0c79f4.79123698
+                    [MODIFIED] => 2025-08-28T17:37:17+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 10964
+                    [STARTED] => 2025-08-28T17:37:17+03:00
+                    [STARTED_BY] => 1
+                    [TEMPLATE_ID] => 2
+                )
+
+            [4] => Array
+                (
+                    [ID] => 67dc1101cd5af6.31994400
+                    [MODIFIED] => 2025-07-24T16:50:14+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 106
+                    [STARTED] => 2025-03-20T15:58:42+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 3
+                )
+
+            [5] => Array
+                (
+                    [ID] => 67dd3531614344.04499391
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 107
+                    [STARTED] => 2025-03-21T12:45:21+03:00
+                    [STARTED_BY] => 6
+                    [TEMPLATE_ID] => 2
+                )
+
+            [6] => Array
+                (
+                    [ID] => 67dd3621a41611.09119413
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 108
+                    [STARTED] => 2025-03-21T12:49:21+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 2
+                )
+
+            [7] => Array
+                (
+                    [ID] => 680a40a53b3616.68542874
+                    [MODIFIED] => 2025-07-24T16:48:28+03:00
+                    [OWNED_UNTIL] => 
+                    [MODULE_ID] => lists
+                    [ENTITY] => BizprocDocument
+                    [DOCUMENT_ID] => 120
+                    [STARTED] => 2025-04-24T16:46:13+03:00
+                    [STARTED_BY] => 20
+                    [TEMPLATE_ID] => 2
+                )
+
+        )
+
+    [total] => 8
+    [time] => Array
+        (
+            [start] => 1756812945.566
+            [finish] => 1756812945.6122
+            [duration] => 0.046160936355591
+            [processing] => 0.0018930435180664
+            [date_start] => 2025-09-02T14:35:45+03:00
+            [date_finish] => 2025-09-02T14:35:45+03:00
+        )
+
+)
+
+
