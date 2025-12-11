@@ -1,0 +1,144 @@
+@import url("reset.css");
+
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#app {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start
+}
+.main__form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: 500px;
+    margin: 0 auto;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+input[type="date"]
+{
+    border: 1px solid #B4B6BA;
+    padding: 3px 5px;
+    border-radius: 10px;
+}
+.column {
+width: fit-content;
+}
+.cross-icon {
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+/* select */
+.select {
+    position: relative;
+    width: 100%;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    outline: none;
+    font-size: 16px;
+}
+.select__header {
+    border: 1px solid #B4B6BA;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12px 0 15px;
+    align-items: center;
+    height: 40px;
+}
+.employees {
+    width: 50%;
+}
+.column-select {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+}
+.select__item {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    cursor: pointer;
+    padding: 8px;
+    background-color: #FFF;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+    font-family: 'Gilroy';
+}
+.select__item:disabled {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    cursor: pointer;
+    padding: 8px;
+    background-color: #FFF;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(128, 128, 128);
+    font-family: 'Gilroy';
+}
+.main__form-button {
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    background: linear-gradient(90deg, rgba(163, 163, 230, 1) 0%, rgba(112, 112, 192, 1) 50%, rgba(163, 163, 230, 1) 100%);
+    background-size: 200% 200%;
+    animation: gradient 3s ease infinite;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 20px;
+    cursor: pointer;
+    transition: 0.3s ease-out;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.main__form-button:hover {
+    background-position: right center;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7);
+}
+
+@keyframes gradient {
+    0% {background-position: left center}
+    50% {background-position: right center}
+    100% {background-position: left center}
+}
+
+.table {
+    width: 60%;
+    border-collapse: collapse;
+    margin-top:20px;
+}
+
+.table th, .table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.table th {
+    background-color: #f2f2f2;
+}
+.table tr:hover {
+    background-color: #f1f1f1;
+}
+
