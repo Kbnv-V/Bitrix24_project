@@ -1,0 +1,22 @@
+Акт сверки по Поставщикам АрИ
+178
+Массив arr_id: Array
+(
+    [0] => 344719
+)
+
+Токен:68d18afb894c24.91651500|A79593_71718_72585_4778|tHeEKsZRlPurxL6kw6ZcjKIYVMyoG9GW.47f770bb9a36e3966075df7b7dd5cd638a438b159f642304ff87e1258f6f8686
+auth_domain:test2.arlift.net
+access_token:0b99d168007c547e007b1818000006a4000000b6bf3c2a20c10b53be119c4e0466482c
+-----------------------
+Красноярск
+130
+Массив arr_id: Array
+(
+    [0] => 173992
+)
+
+Токен:68d28627f348d4.40123438|A79593_71718_72585_4778|fZ1jL14sz4zHrKi7HyyaRHBJJ611aAYx.2de1230d34058dc937961929e390f3e71b5a44648d56dc3ed30e8ba9e68d219c
+auth_domain:test2.arlift.net
+access_token:3894d268007c547e007b1818000006a4000000d2e092e6fa49c6c343cf1f6e50ce1823
+-----------------------
