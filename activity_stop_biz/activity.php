@@ -18,7 +18,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             'bizproc.activity.add',
             [
                 'CODE' => 'stop_bizpoc',
-                'HANDLER' => 'https://saltsite.saltpro.ru/rest_apps/edu/kbnv/activity_stop_biz/stop_biz.php', 
+                'HANDLER' => 'адрес сервака, на котором лежит файл', 
                 'AUTH_USER_ID' => 1,
                 'USE_SUBSCRIPTION' => '',
                 'NAME' => ['ru' => 'Остановка бизнес-процесса'],
@@ -117,4 +117,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </table>
 
 </body>
+
 </html>
