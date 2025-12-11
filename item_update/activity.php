@@ -18,7 +18,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             'bizproc.activity.add',
             [
                 'CODE' => 'item_update',
-                'HANDLER' => 'https://saltsite.saltpro.ru/rest_apps/edu/kbnv/item_update_ETS/item_update.php', 
+                'HANDLER' => 'адрес до исполняемого файла', 
                 'AUTH_USER_ID' => 1700,
                 'USE_SUBSCRIPTION' => '',
                 'NAME' => ['ru' => 'Обновление информации в элементе смарт-процесса'],
@@ -126,4 +126,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </table>
 
 </body>
+
 </html>
