@@ -1,0 +1,939 @@
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => test mess1
+    [MESSAGE] => test mess1
+    [TEXT_MESSAGE] => test mess1
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 37
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 37
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11263
+    [URL] => /company/personal/user/11263/blog/37/
+    [USER_ID] => 11263
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => тестовый опрос
+    [MESSAGE] => тестовый опрос
+    [TEXT_MESSAGE] => тестовый опрос
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 38
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 38
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11263
+    [URL] => /company/personal/user/11263/blog/38/
+    [USER_ID] => 11263
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => тестовое сообщение
+    [MESSAGE] => тестовое сообщение
+    [TEXT_MESSAGE] => тестовое сообщение
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 39
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 39
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11263
+    [URL] => /company/personal/user/11263/blog/39/
+    [USER_ID] => 11263
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post_important
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => тест1
+    [MESSAGE] => тест1
+    [TEXT_MESSAGE] => тест1
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 40
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 40
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11263
+    [URL] => /company/personal/user/11263/blog/40/
+    [USER_ID] => 11263
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => тест1
+    [MESSAGE] => тест1
+    [TEXT_MESSAGE] => тест1
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 41
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 41
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11263
+    [URL] => /company/personal/user/11263/blog/41/
+    [USER_ID] => 11263
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => тестовое сообщение
+    [MESSAGE] => тестовое сообщение
+    [TEXT_MESSAGE] => тестовое сообщение
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 42
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 42
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 4623
+    [URL] => /company/personal/user/4623/blog/42/
+    [USER_ID] => 4623
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => .
+    [MESSAGE] => .
+    [TEXT_MESSAGE] => .
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 43
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 43
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11348
+    [URL] => /company/personal/user/11348/blog/43/
+    [USER_ID] => 11348
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [ENTITY_TYPE] => WF
+    [EVENT_ID] => lists_new_element
+    [ENTITY_ID] => 1
+    [SOURCE_ID] => 65
+    [USER_ID] => 4623
+    [MODULE_ID] => lists
+    [TITLE_TEMPLATE] => /bizproc/processes/?livefeed=y&list_id=21&element_id=15225
+    [TITLE] => Фиксация встреч/поездок
+    [PARAMS] => a:1:{s:12:"ELEMENT_NAME";s:138:"Кабанов Владимир Сергеевич. С 30.07.2026 по 31.07.2026. Адрес: Москва, Красная площадь";}
+    [MESSAGE] => 6a6af47df15f78.69581156
+    [CALLBACK_FUNC] => 
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => LISTS_NEW_ELEMENT
+    [RATING_ENTITY_ID] => 65
+    [URL] => #SITE_DIR#/company/personal/log/
+    [TEXT_MESSAGE] => 
+				<span class="bp-title-desc">
+					<span class="bp-title-desc-icon">
+						<img src="/bitrix/images/lists/default.png" width="36" height="30" border="0" />
+					</span>
+					Кабанов Владимир Сергеевич. С 30.07.2026 по 31.07.2026. Адрес: Москва, Красная площадь
+				</span>
+			
+)
+
+Array
+(
+    [ENTITY_TYPE] => WF
+    [EVENT_ID] => lists_new_element
+    [ENTITY_ID] => 1
+    [SOURCE_ID] => 66
+    [USER_ID] => 11144
+    [MODULE_ID] => lists
+    [TITLE_TEMPLATE] => /bizproc/processes/?livefeed=y&list_id=21&element_id=15221
+    [TITLE] => Фиксация встреч/поездок
+    [PARAMS] => a:1:{s:12:"ELEMENT_NAME";s:225:"Вежновец Ольга Александровна. С 30.07.2026 по 31.07.2026. Адрес: Адрес встАО «КРЭТ», г. Москва, Волоколамское шоссе, 75АкА2.речи/поездки";}
+    [MESSAGE] => 6a6af4fff070f7.98474919
+    [CALLBACK_FUNC] => 
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => LISTS_NEW_ELEMENT
+    [RATING_ENTITY_ID] => 66
+    [URL] => #SITE_DIR#/company/personal/log/
+    [TEXT_MESSAGE] => 
+				<span class="bp-title-desc">
+					<span class="bp-title-desc-icon">
+						<img src="/bitrix/images/lists/default.png" width="36" height="30" border="0" />
+					</span>
+					Вежновец Ольга Александровна. С 30.07.2026 по 31.07.2026. Адрес: Адрес встАО «КРЭТ», г. Москва, Волоколамское шоссе, 75АкА2.речи/поездки
+				</span>
+			
+)
+
+Дошел до отправки
+Array
+(
+    [ENTITY_TYPE] => WF
+    [EVENT_ID] => lists_new_element
+    [ENTITY_ID] => 1
+    [SOURCE_ID] => 67
+    [USER_ID] => 11144
+    [MODULE_ID] => lists
+    [TITLE_TEMPLATE] => /bizproc/processes/?livefeed=y&list_id=21&element_id=15222
+    [TITLE] => Фиксация встреч/поездок
+    [PARAMS] => a:1:{s:12:"ELEMENT_NAME";s:229:"Вежновец Ольга Александровна. С 31.07.2026 по 31.07.2026. Адрес: Адрес встр115184, город Москва, Большая Татарская ул, д. 35 стр. 5 ечи/поездки";}
+    [MESSAGE] => 6a6af509cfbbe6.39529365
+    [CALLBACK_FUNC] => 
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => LISTS_NEW_ELEMENT
+    [RATING_ENTITY_ID] => 67
+    [URL] => #SITE_DIR#/company/personal/log/
+    [TEXT_MESSAGE] => 
+				<span class="bp-title-desc">
+					<span class="bp-title-desc-icon">
+						<img src="/bitrix/images/lists/default.png" width="36" height="30" border="0" />
+					</span>
+					Вежновец Ольга Александровна. С 31.07.2026 по 31.07.2026. Адрес: Адрес встр115184, город Москва, Большая Татарская ул, д. 35 стр. 5 ечи/поездки
+				</span>
+			
+)
+
+Дошел до отправки
+Array
+(
+    [ENTITY_TYPE] => WF
+    [EVENT_ID] => lists_new_element
+    [ENTITY_ID] => 1
+    [SOURCE_ID] => 68
+    [USER_ID] => 11264
+    [MODULE_ID] => lists
+    [TITLE_TEMPLATE] => /bizproc/processes/?livefeed=y&list_id=21&element_id=15220
+    [TITLE] => Фиксация встреч/поездок
+    [PARAMS] => a:1:{s:12:"ELEMENT_NAME";s:165:"Со Юлия Сергеевна. С 30.07.2026 по 30.07.2026. Адрес: г. Москва ул. Расковой 34, м. Савеловская, м. Динамо";}
+    [MESSAGE] => 6a6af510caced9.07750173
+    [CALLBACK_FUNC] => 
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => LISTS_NEW_ELEMENT
+    [RATING_ENTITY_ID] => 68
+    [URL] => #SITE_DIR#/company/personal/log/
+    [TEXT_MESSAGE] => 
+				<span class="bp-title-desc">
+					<span class="bp-title-desc-icon">
+						<img src="/bitrix/images/lists/default.png" width="36" height="30" border="0" />
+					</span>
+					Со Юлия Сергеевна. С 30.07.2026 по 30.07.2026. Адрес: г. Москва ул. Расковой 34, м. Савеловская, м. Динамо
+				</span>
+			
+)
+
+Дошел до отправки
+Array
+(
+    [ENTITY_TYPE] => WF
+    [EVENT_ID] => lists_new_element
+    [ENTITY_ID] => 1
+    [SOURCE_ID] => 69
+    [USER_ID] => 11264
+    [MODULE_ID] => lists
+    [TITLE_TEMPLATE] => /bizproc/processes/?livefeed=y&list_id=21&element_id=15219
+    [TITLE] => Фиксация встреч/поездок
+    [PARAMS] => a:1:{s:12:"ELEMENT_NAME";s:170:"Со Юлия Сергеевна. С 31.07.2026 по 31.07.2026. Адрес: Дачная ул., 28, микрорайон Железнодорожный, Балашиха";}
+    [MESSAGE] => 6a6af516c0d372.52120334
+    [CALLBACK_FUNC] => 
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => LISTS_NEW_ELEMENT
+    [RATING_ENTITY_ID] => 69
+    [URL] => #SITE_DIR#/company/personal/log/
+    [TEXT_MESSAGE] => 
+				<span class="bp-title-desc">
+					<span class="bp-title-desc-icon">
+						<img src="/bitrix/images/lists/default.png" width="36" height="30" border="0" />
+					</span>
+					Со Юлия Сергеевна. С 31.07.2026 по 31.07.2026. Адрес: Дачная ул., 28, микрорайон Железнодорожный, Балашиха
+				</span>
+			
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => тест
+    [MESSAGE] => тест
+    [TEXT_MESSAGE] => тест
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 44
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 44
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11160
+    [URL] => /company/personal/user/11160/blog/44/
+    [USER_ID] => 11160
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => Тест
+    [MESSAGE] => Тест
+    [TEXT_MESSAGE] => Тест
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 45
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 45
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11160
+    [URL] => /company/personal/user/11160/blog/45/
+    [USER_ID] => 11160
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => .
+    [MESSAGE] => .
+    [TEXT_MESSAGE] => .
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 46
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 46
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11348
+    [URL] => /company/personal/user/11348/blog/46/
+    [USER_ID] => 11348
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => тест
+    [MESSAGE] => тест
+    [TEXT_MESSAGE] => тест
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 47
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 47
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11160
+    [URL] => /company/personal/user/11160/blog/47/
+    [USER_ID] => 11160
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => тест
+    [MESSAGE] => тест
+    [TEXT_MESSAGE] => тест
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 48
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 48
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11160
+    [URL] => /company/personal/user/11160/blog/48/
+    [USER_ID] => 11160
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => тест
+    [MESSAGE] => тест
+    [TEXT_MESSAGE] => тест
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 49
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 49
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11160
+    [URL] => /company/personal/user/11160/blog/49/
+    [USER_ID] => 11160
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => тест
+    [MESSAGE] => тест
+    [TEXT_MESSAGE] => тест
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 50
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 50
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11027
+    [URL] => /company/personal/user/11027/blog/50/
+    [USER_ID] => 11027
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => Коллеги, добрый день! 03.08.2026 (понедельник) в первой половине дня будет происходить обновление портала Битрикс24. Возможны короткие перебои в работе портала. Спасибо за понимание!
+    [MESSAGE] => [FONT="Times New Roman", Times][SIZE=18pt][B]Коллеги, добрый день![/B][/SIZE][/FONT]<br /><br />[SIZE=24px][B]03.08.2026 (понедельник) в первой половине дня будет происходить обновление портала Битрикс24. Возможны короткие перебои в работе портала.[/B][/SIZE]<br /><br />[FONT="Times New Roman", Times][SIZE=18pt][B]Спасибо за понимание![/B][/SIZE][/FONT]
+    [TEXT_MESSAGE] => Коллеги, добрый день!
+
+03.08.2026 (понедельник) в первой половине дня будет происходить обновление портала Битрикс24. Возможны короткие перебои в работе портала.
+
+Спасибо за понимание!
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 51
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 51
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 4623
+    [URL] => /company/personal/user/4623/blog/51/
+    [USER_ID] => 4623
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Array
+(
+    [EVENT_ID] => timeman_entry
+    [MODULE_ID] => timeman
+    [TITLE_TEMPLATE] => #TITLE#
+    [TITLE] => Учет рабочего времени
+    [MESSAGE] => 
+    [TEXT_MESSAGE] => 
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 10
+    [SITE_ID] => s1
+    [ENABLE_COMMENTS] => Y
+    [PARAMS] => a:1:{s:8:"FORUM_ID";i:11;}
+    [ENTITY_TYPE] => T
+    [ENTITY_ID] => 10987
+    [USER_ID] => 10987
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => Спасибо!
+    [MESSAGE] => Спасибо!
+    [TEXT_MESSAGE] => Спасибо!
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 54
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 54
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11160
+    [URL] => /company/personal/user/11160/blog/54/
+    [USER_ID] => 11160
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => Спасибо! )
+    [MESSAGE] => Спасибо! )
+    [TEXT_MESSAGE] => Спасибо! )
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 55
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 55
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 11160
+    [URL] => /company/personal/user/11160/blog/55/
+    [USER_ID] => 11160
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => ))))
+    [MESSAGE] => ))))
+    [TEXT_MESSAGE] => ))))
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 56
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 56
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 10987
+    [URL] => /company/personal/user/10987/blog/56/
+    [USER_ID] => 10987
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => timeman_entry
+    [MODULE_ID] => timeman
+    [TITLE_TEMPLATE] => #TITLE#
+    [TITLE] => Учет рабочего времени
+    [MESSAGE] => 
+    [TEXT_MESSAGE] => 
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 10
+    [SITE_ID] => s1
+    [ENABLE_COMMENTS] => Y
+    [PARAMS] => a:1:{s:8:"FORUM_ID";i:11;}
+    [ENTITY_TYPE] => T
+    [ENTITY_ID] => 10987
+    [USER_ID] => 10987
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => timeman_entry
+    [MODULE_ID] => timeman
+    [TITLE_TEMPLATE] => #TITLE#
+    [TITLE] => Учет рабочего времени
+    [MESSAGE] => 
+    [TEXT_MESSAGE] => 
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 11
+    [SITE_ID] => s1
+    [ENABLE_COMMENTS] => Y
+    [PARAMS] => a:1:{s:8:"FORUM_ID";i:11;}
+    [ENTITY_TYPE] => T
+    [ENTITY_ID] => 11131
+    [USER_ID] => 11131
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => blog_post
+    [TITLE_TEMPLATE] => #USER_NAME# добавил(а) сообщение "#TITLE#" в блог
+    [TITLE] => Коллеги, всем добрый день. Сегодня в 10:00 будет обновление портала. Возможны небольшие перебои в работе портала.
+    [MESSAGE] => [FONT="Times New Roman", Times][SIZE=22pt][B]Коллеги, всем добрый день. Сегодня в 10:00 будет обновление портала.[/B][/SIZE][/FONT]<br /><br />[FONT="Times New Roman", Times][SIZE=22pt][B]Возможны небольшие перебои в работе портала.[/B][/SIZE][/FONT]
+    [TEXT_MESSAGE] => Коллеги, всем добрый день. Сегодня в 10:00 будет обновление портала.
+
+Возможны небольшие перебои в работе портала.
+    [MODULE_ID] => blog
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 57
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => BLOG_POST
+    [RATING_ENTITY_ID] => 57
+    [ENTITY_TYPE] => U
+    [ENTITY_ID] => 4623
+    [URL] => /company/personal/user/4623/blog/57/
+    [USER_ID] => 4623
+    [TAG] => Array
+        (
+        )
+
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+)
+
+Array
+(
+    [ENTITY_TYPE] => WF
+    [EVENT_ID] => lists_new_element
+    [ENTITY_ID] => 1
+    [SOURCE_ID] => 72
+    [USER_ID] => 4623
+    [MODULE_ID] => lists
+    [TITLE_TEMPLATE] => /bizproc/processes/?livefeed=y&list_id=21&element_id=15244
+    [TITLE] => Фиксация встреч/поездок
+    [PARAMS] => a:1:{s:12:"ELEMENT_NAME";s:135:"Кабанов Владимир Сергеевич. С 01.06.2026 по 19.06.2026. Адрес: Адрес встречи/поездки";}
+    [MESSAGE] => 6a719c970ae707.86943485
+    [CALLBACK_FUNC] => 
+    [SITE_ID] => Array
+        (
+            [0] => s1
+        )
+
+    [ENABLE_COMMENTS] => Y
+    [RATING_TYPE_ID] => LISTS_NEW_ELEMENT
+    [RATING_ENTITY_ID] => 72
+    [URL] => #SITE_DIR#/company/personal/log/
+    [TEXT_MESSAGE] => 
+				<span class="bp-title-desc">
+					<span class="bp-title-desc-icon">
+						<img src="/bitrix/images/lists/default.png" width="36" height="30" border="0" />
+					</span>
+					Кабанов Владимир Сергеевич. С 01.06.2026 по 19.06.2026. Адрес: Адрес встречи/поездки
+				</span>
+			
+)
+
+Array
+(
+    [EVENT_ID] => timeman_entry
+    [MODULE_ID] => timeman
+    [TITLE_TEMPLATE] => #TITLE#
+    [TITLE] => Учет рабочего времени
+    [MESSAGE] => 
+    [TEXT_MESSAGE] => 
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 14
+    [SITE_ID] => s1
+    [ENABLE_COMMENTS] => Y
+    [PARAMS] => a:1:{s:8:"FORUM_ID";i:11;}
+    [ENTITY_TYPE] => T
+    [ENTITY_ID] => 11131
+    [USER_ID] => 11131
+)
+
+Дошел до отправки
+Array
+(
+    [ENTITY_ID] => 5590
+    [USER_ID] => 5590
+    [TITLE_TEMPLATE] => #TITLE#
+    [TITLE] => Связаться с клиентом
+    [MESSAGE] => 
+    [TEXT_MESSAGE] => 
+    [ENTITY_TYPE] => U
+    [EVENT_ID] => calendar
+    [MODULE_ID] => calendar
+    [SITE_ID] => s1
+    [SOURCE_ID] => 178
+    [ENABLE_COMMENTS] => Y
+    [CALLBACK_FUNC] => 
+    [PARAMS] => 
+)
+
+Дошел до отправки
+Array
+(
+    [ENTITY_ID] => 5590
+    [USER_ID] => 5590
+    [TITLE_TEMPLATE] => #TITLE#
+    [TITLE] => Связаться с клиентом
+    [MESSAGE] => 
+    [TEXT_MESSAGE] => 
+    [ENTITY_TYPE] => U
+    [EVENT_ID] => calendar
+    [MODULE_ID] => calendar
+    [SITE_ID] => s1
+    [SOURCE_ID] => 179
+    [ENABLE_COMMENTS] => Y
+    [CALLBACK_FUNC] => 
+    [PARAMS] => 
+)
+
+Дошел до отправки
+Array
+(
+    [ENTITY_ID] => 5590
+    [USER_ID] => 5590
+    [TITLE_TEMPLATE] => #TITLE#
+    [TITLE] => Организовать переговоры
+    [MESSAGE] => 
+    [TEXT_MESSAGE] => 
+    [ENTITY_TYPE] => U
+    [EVENT_ID] => calendar
+    [MODULE_ID] => calendar
+    [SITE_ID] => s1
+    [SOURCE_ID] => 180
+    [ENABLE_COMMENTS] => Y
+    [CALLBACK_FUNC] => 
+    [PARAMS] => 
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => timeman_entry
+    [MODULE_ID] => timeman
+    [TITLE_TEMPLATE] => #TITLE#
+    [TITLE] => Учет рабочего времени
+    [MESSAGE] => 
+    [TEXT_MESSAGE] => 
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 18
+    [SITE_ID] => s1
+    [ENABLE_COMMENTS] => Y
+    [PARAMS] => a:1:{s:8:"FORUM_ID";i:11;}
+    [ENTITY_TYPE] => T
+    [ENTITY_ID] => 10927
+    [USER_ID] => 10927
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => timeman_entry
+    [MODULE_ID] => timeman
+    [TITLE_TEMPLATE] => #TITLE#
+    [TITLE] => Учет рабочего времени
+    [MESSAGE] => 
+    [TEXT_MESSAGE] => 
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 16
+    [SITE_ID] => s1
+    [ENABLE_COMMENTS] => Y
+    [PARAMS] => a:1:{s:8:"FORUM_ID";i:11;}
+    [ENTITY_TYPE] => T
+    [ENTITY_ID] => 10980
+    [USER_ID] => 10980
+)
+
+Дошел до отправки
+Array
+(
+    [EVENT_ID] => timeman_entry
+    [MODULE_ID] => timeman
+    [TITLE_TEMPLATE] => #TITLE#
+    [TITLE] => Учет рабочего времени
+    [MESSAGE] => 
+    [TEXT_MESSAGE] => 
+    [CALLBACK_FUNC] => 
+    [SOURCE_ID] => 22
+    [SITE_ID] => s1
+    [ENABLE_COMMENTS] => Y
+    [PARAMS] => a:1:{s:8:"FORUM_ID";i:11;}
+    [ENTITY_TYPE] => T
+    [ENTITY_ID] => 11372
+    [USER_ID] => 11372
+)
+
+Дошел до отправки
